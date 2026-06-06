@@ -56,8 +56,6 @@
 
 <img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aluoty&theme=tokyonight" />
 
-<img height="165" src="https://github-profile-trophy.vercel.app/?username=aluoty&theme=tokyonight&row=1&column=6" />
-
 </p>
 
 ---

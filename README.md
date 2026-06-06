@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B+Systems+Builder;Rust+Tool+Maker;JavaScript+Toolmaker;TypeScript+Web+Developer;Python+Automation+Engineer;Low-level+Thinker&center=true&width=500&height=50&color=cbd5e1">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B+Systems+Builder;Rust+Tool+Maker;TypeScript+Web+Developer;Low-level+Thinker&center=true&width=500&height=50&color=cbd5e1">
 </p>
 
 ---
@@ -19,10 +19,8 @@
 ```
 
 - 🦀 Rust developer
-- ⚙️ C++ developer
-- 🌐 JavaScript toolmaker
+- ⚙️ System tool maker
 - 🌐 Typescript web developer
-- 🐍 Python automation
 - 🐧 Linux user
 - 🎮 Game dev experiments
 
@@ -33,11 +31,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust" />
-<img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=89CFF0" />
-<img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<br>
-<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=FFD43B" />
 <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white" />
 
 </p>

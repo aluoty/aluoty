@@ -17,7 +17,7 @@
 > prefers control, clarity, and performance
 > learns by breaking and rebuilding
 ```
-
+- 💻 C developer
 - 🦀 Rust developer
 - ⚙️ System tool maker
 - 🌐 Typescript web developer
@@ -31,6 +31,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust" />
+<img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=C" />
 <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white" />
 

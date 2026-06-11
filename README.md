@@ -51,8 +51,6 @@
 
 <img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aluoty&theme=tokyonight" />
 
-<img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aluoty&theme=tokyonight" />
-
 </p>
 
 ---

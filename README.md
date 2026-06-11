@@ -33,6 +33,9 @@
 <img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust" />
 <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=C" />
 <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+
+<br>
+
 <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white" />
 
 </p>

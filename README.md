@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=C+Tool+Maker;Rust+Tool+Maker;TypeScript+Web+Developer;Low-level+Thinker&center=true&width=500&height=50&color=cbd5e1">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C+Tool+Maker;Rust+Tool+Maker;Go+Tool+Developer;Low-level+Thinker&center=true&width=500&height=50&color=cbd5e1">
 </p>
 
 ---
@@ -19,6 +19,7 @@
 ```
 - 💻 C developer
 - 🦀 Rust developer
+- 🏁 Go developer
 - ⚙️ System tool maker
 - 🌐 Typescript web developer
 - 🐧 Linux user
@@ -32,6 +33,7 @@
 
 <img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust" />
 <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=C" />
+<img src="https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=Go" />
 
 <br>
 

@@ -38,8 +38,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white" />
-![Nix](https://shields.io)
-
+<img src="https://img.shields.io/badge/NixOS-0f172a?style=for-the-badge&logo=NixOS&logoColor=white" />
 
 </p>
 

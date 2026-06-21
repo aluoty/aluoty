@@ -20,7 +20,7 @@
 - 💻 C developer
 - 🦀 Rust developer
 - 🏁 Go developer
-- $\lambda$ Haskell developer
+- $\lambda$= Haskell developer
 - ⚙️ System tool maker
 - 🌐 Typescript web developer
 - 🐧 Linux user

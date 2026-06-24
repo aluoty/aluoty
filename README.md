@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=C+Tool+Maker;Rust+Tool+Maker;Haskell+Tool+Maker;Typescript+Tool+Maker;Go+Tool+Developer;Low-level+Thinker&center=true&width=500&height=50&color=cbd5e1">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C+Tool+Maker;Rust+Tool+Maker;Zig+Tool+Maker;Typescript+Tool+Maker;Go+Tool+Developer;Low-level+Thinker&center=true&width=500&height=50&color=cbd5e1">
 </p>
 
 ---
@@ -20,6 +20,7 @@
 - 💻 C developer
 - 🦀 Rust developer
 - 🏁 Go developer
+- ⚡  Zig developer
 - λ= Haskell developer
 - ⚙️ System tool maker
 - 🌐 Typescript web developer
@@ -34,6 +35,10 @@
 
 <img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust" />
 <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=C" />
+<img src="https://img.shields.io/badge/Zig-0f172a?style=for-the-badge&logo=Zig" />
+
+<br>
+
 <img src="https://img.shields.io/badge/Haskell-0f172a?style=for-the-badge&logo=Haskell" />
 <img src="https://img.shields.io/badge/Typescript-0f172a?style=for-the-badge&logo=Typescript" />
 <img src="https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=Go" />

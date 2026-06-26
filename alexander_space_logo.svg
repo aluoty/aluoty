@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<rect width="1024" height="1024" fill="#050816"/>
+<g stroke="#355caa" fill="none" opacity="0.45">
+<circle cx="512" cy="512" r="170"/>
+<circle cx="512" cy="512" r="250"/>
+<circle cx="512" cy="512" r="330"/>
+</g>
+<g fill="#dfe8ff" font-family="Times New Roman, serif">
+<text x="512" y="525" text-anchor="middle" font-size="64" letter-spacing="4">ΑΛΕΞΑΝΔΡΟΣ</text>
+</g>
+<g fill="#8fb8ff" font-family="Times New Roman, serif" font-size="28" opacity="0.9">
+<text x="180" y="210">π</text>
+<text x="270" y="760">φ</text>
+<text x="760" y="250">λ</text>
+<text x="835" y="650">Σ</text>
+<text x="120" y="560">Ω</text>
+<text x="720" y="840">Δ</text>
+<text x="460" y="120">θ</text>
+<text x="615" y="180">ψ</text>
+<text x="875" y="430">μ</text>
+<text x="130" y="350">ξ</text>
+<text x="500" y="910">∞</text>
+<text x="335" y="140">∇</text>
+<text x="840" y="170">∫</text>
+<text x="760" y="520">ω</text>
+<text x="275" y="500">∂</text>
+<text x="565" y="760">σ</text>
+<text x="650" y="350">ℏ</text>
+<text x="585" y="620">ε</text>
+</g>
+<g stroke="#6da9ff" opacity="0.4">
+<line x1="512" y1="120" x2="512" y2="904"/>
+<line x1="120" y1="505" x2="904" y2="505"/>
+</g>
+<g fill="#dfe8ff" opacity="0.8">
+<circle cx="167" cy="612" r="1"/>
+<circle cx="291" cy="150" r="1.5"/>
+<circle cx="809" cy="490" r="1.5"/>
+<circle cx="697" cy="418" r="1"/>
+<circle cx="126" cy="529" r="1"/>
+<circle cx="944" cy="885" r="1.5"/>
+<circle cx="473" cy="652" r="1"/>
+<circle cx="742" cy="486" r="1.5"/>
+<circle cx="768" cy="851" r="1"/>
+<circle cx="635" cy="134" r="1.5"/>
+<circle cx="61" cy="52" r="2"/>
+<circle cx="695" cy="584" r="1"/>
+<circle cx="991" cy="932" r="1.5"/>
+<circle cx="732" cy="251" r="1.5"/>
+<circle cx="773" cy="59" r="2"/>
+<circle cx="257" cy="812" r="1.5"/>
+<circle cx="991" cy="537" r="2"/>
+<circle cx="268" cy="383" r="1"/>
+<circle cx="723" cy="254" r="1.5"/>
+<circle cx="326" cy="978" r="1"/>
+<circle cx="456" cy="887" r="2"/>
+<circle cx="974" cy="687" r="1"/>
+<circle cx="220" cy="674" r="2"/>
+<circle cx="910" cy="333" r="1"/>
+<circle cx="790" cy="370" r="2"/>
+<circle cx="758" cy="542" r="1.5"/>
+<circle cx="549" cy="879" r="2"/>
+<circle cx="224" cy="340" r="1.5"/>
+<circle cx="631" cy="933" r="1.5"/>
+<circle cx="896" cy="993" r="2"/>
+<circle cx="521" cy="278" r="2"/>
+<circle cx="846" cy="443" r="1.5"/>
+<circle cx="710" cy="207" r="1.5"/>
+<circle cx="591" cy="933" r="2"/>
+<circle cx="824" cy="720" r="2"/>
+<circle cx="413" cy="118" r="1.5"/>
+<circle cx="709" cy="550" r="1"/>
+<circle cx="827" cy="197" r="2"/>
+<circle cx="890" cy="432" r="1.5"/>
+<circle cx="531" cy="780" r="1"/>
+<circle cx="510" cy="74" r="1.5"/>
+<circle cx="750" cy="898" r="2"/>
+<circle cx="637" cy="622" r="1.5"/>
+<circle cx="692" cy="204" r="1"/>
+<circle cx="544" cy="262" r="1"/>
+<circle cx="819" cy="234" r="2"/>
+<circle cx="972" cy="910" r="2"/>
+<circle cx="267" cy="444" r="2"/>
+<circle cx="382" cy="897" r="2"/>
+<circle cx="391" cy="500" r="1.5"/>
+<circle cx="705" cy="591" r="2"/>
+<circle cx="776" cy="35" r="1.5"/>
+<circle cx="832" cy="907" r="2"/>
+<circle cx="554" cy="858" r="1"/>
+<circle cx="561" cy="826" r="2"/>
+<circle cx="240" cy="466" r="1"/>
+<circle cx="522" cy="920" r="1.5"/>
+<circle cx="613" cy="597" r="3"/>
+<circle cx="993" cy="546" r="1.5"/>
+<circle cx="526" cy="862" r="1.5"/>
+<circle cx="454" cy="384" r="1"/>
+<circle cx="581" cy="583" r="2"/>
+<circle cx="835" cy="657" r="1.5"/>
+<circle cx="499" cy="644" r="1"/>
+<circle cx="853" cy="265" r="2"/>
+<circle cx="211" cy="593" r="2"/>
+<circle cx="215" cy="911" r="1"/>
+<circle cx="847" cy="594" r="1.5"/>
+<circle cx="63" cy="891" r="2"/>
+<circle cx="102" cy="115" r="1"/>
+<circle cx="493" cy="44" r="1.5"/>
+<circle cx="285" cy="305" r="2"/>
+<circle cx="846" cy="669" r="1"/>
+<circle cx="382" cy="327" r="1"/>
+<circle cx="201" cy="193" r="1.5"/>
+<circle cx="570" cy="202" r="2"/>
+<circle cx="309" cy="693" r="2"/>
+<circle cx="331" cy="495" r="2"/>
+<circle cx="359" cy="538" r="1.5"/>
+<circle cx="100" cy="700" r="3"/>
+</g></svg>

@@ -21,7 +21,7 @@
 - 🦀 Rust developer
 - 🏁 Go developer
 - ⚡  Zig developer
-- λ= Haskell developer
+- 🏸 Racket developer
 - ⚙️ System tool maker
 - 🌐 Typescript web developer
 - 🐧 Linux user
@@ -39,7 +39,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Haskell-0f172a?style=for-the-badge&logo=Haskell" />
+<img src="https://img.shields.io/badge/Racket-0f172a?style=for-the-badge&logo=Racket" />
 <img src="https://img.shields.io/badge/Typescript-0f172a?style=for-the-badge&logo=Typescript" />
 <img src="https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=Go" />
 

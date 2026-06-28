@@ -13,9 +13,9 @@
 ## 🧬 About
 
 
-> building systems, tools, and program logic from scratch
-> prefers control, clarity, and performance
-> learns by breaking and rebuilding
++ > building systems, tools, and program logic from scratch
++ > prefers control, clarity, and performance
++ > learns by breaking and rebuilding
 
 - 💻 C developer
 - 🦀 Rust developer

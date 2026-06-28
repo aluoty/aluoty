@@ -20,8 +20,8 @@
 - 💻 C developer
 - 🦀 Rust developer
 - 🏁 Go developer
-- ⚡  Zig developer
-- 🏸 Racket developer
+- ⚡ Zig developer
+- λλ Common Lisp developer
 - ⚙️ System tool maker
 - 🌐 Typescript web developer
 - 🐧 Linux user
@@ -39,7 +39,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Racket-0f172a?style=for-the-badge&logo=Racket" />
+<img src="https://img.shields.io/badge/CommonLisp-0f172a?style=for-the-badge&logo=CommonLisp" />
 <img src="https://img.shields.io/badge/Typescript-0f172a?style=for-the-badge&logo=Typescript" />
 <img src="https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=Go" />
 

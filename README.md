@@ -21,7 +21,7 @@
 - 🦀 Rust developer
 - 🏁 Go developer
 - ⚡ Zig developer
-- λλ Common Lisp developer
+- λλ  Common Lisp developer
 - ⚙️ System tool maker
 - 🌐 Typescript web developer
 - 🐧 Linux user

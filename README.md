@@ -29,8 +29,10 @@ learns by breaking and rebuilding
 ---
 
 ## 🧰 Tech Stack
-  
-<p>Programming Languages:</p>
+
+<p align="center">
+<p>Programming Languages: </p>
+</p>
 
 <p align="center">
   
@@ -48,7 +50,9 @@ learns by breaking and rebuilding
 
 <br>
 
+<p align="center">
 <p>System:</p>
+</p>
 
 <p align="center">
   

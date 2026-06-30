@@ -32,12 +32,6 @@ learns by breaking and rebuilding
 
 <p align="center">
   
-<p>Programming Languages: </p>
-
-</p>
-
-<p align="center">
-  
 <img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust" />
 <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=C" />
 <img src="https://img.shields.io/badge/Zig-0f172a?style=for-the-badge&logo=Zig" />
@@ -48,22 +42,10 @@ learns by breaking and rebuilding
 <img src="https://img.shields.io/badge/Typescript-0f172a?style=for-the-badge&logo=Typescript" />
 <img src="https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=Go" />
 
-</p>
-
 <br>
-
-<p align="center">
-  
-<p>System:</p>
-
-</p>
-
-<p align="center">
   
 <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/NixOS-0f172a?style=for-the-badge&logo=NixOS&logoColor=white" />
-
-</p>
 
 </p>
 

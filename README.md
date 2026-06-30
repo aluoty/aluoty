@@ -31,6 +31,8 @@ learns by breaking and rebuilding
 ## 🧰 Tech Stack
 
 <p align="center">
+  
+<p>Programming Languages:</p>
 
 <img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust" />
 <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=C" />
@@ -43,6 +45,8 @@ learns by breaking and rebuilding
 <img src="https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=Go" />
 
 <br>
+
+<p>System:</p>
 
 <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/NixOS-0f172a?style=for-the-badge&logo=NixOS&logoColor=white" />

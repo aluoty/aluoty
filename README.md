@@ -29,17 +29,17 @@ learns by breaking and rebuilding
 
 <p align="center">
   
-<img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust" />
+<img src="https://img.shields.io/badge/Rust-f56042?style=for-the-badge&logo=rust" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Typescript-0f172a?style=for-the-badge&logo=Typescript" />
+<img src="https://img.shields.io/badge/Typescript-426ff5?style=for-the-badge&logo=Typescript" />
 
 <br>
   
 <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/NixOS-0f172a?style=for-the-badge&logo=NixOS&logoColor=white" />
+<img src="https://img.shields.io/badge/NixOS-1b84e0?style=for-the-badge&logo=NixOS&logoColor=white" />
 
 </p>
 

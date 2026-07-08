@@ -29,7 +29,7 @@ learns by breaking and rebuilding
 
 <p align="center">
   
-<img src="https://img.shields.io/badge/Rust-f56042?style=for-the-badge&logo=rust" />
+<img src="https://img.shields.io/badge/Rust-7a2828?style=for-the-badge&logo=rust" />
 
 <br>
 

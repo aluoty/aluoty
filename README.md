@@ -16,11 +16,8 @@ building tools, and program logic from scratch
 prefers clarity and control
 learns by breaking and rebuilding
 ```
-- 💻 C developer
+- 💻 Java developer
 - 🦀 Rust developer
-- 🏁 Go developer
-- ⚡ Zig developer
-- λλ  Common Lisp developer
 - ⚙️ System tool maker
 - 🌐 Typescript web developer
 - 🐧 Linux user
@@ -33,14 +30,11 @@ learns by breaking and rebuilding
 <p align="center">
   
 <img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust" />
-<img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=C" />
-<img src="https://img.shields.io/badge/Zig-0f172a?style=for-the-badge&logo=Zig" />
 
 <br>
 
-<img src="https://img.shields.io/badge/CommonLisp-0f172a?style=for-the-badge&logo=CommonLisp" />
+<img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=Java" />
 <img src="https://img.shields.io/badge/Typescript-0f172a?style=for-the-badge&logo=Typescript" />
-<img src="https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=Go" />
 
 <br>
   

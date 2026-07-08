@@ -33,7 +33,7 @@ learns by breaking and rebuilding
 
 <br>
 
-[<img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=Java" />](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Typescript-0f172a?style=for-the-badge&logo=Typescript" />
 
 <br>

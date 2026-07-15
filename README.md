@@ -16,12 +16,12 @@ building tools, and program logic from scratch
 prefers clarity and control
 learns by breaking and rebuilding
 ```
+- ⚙️ C developer 
 - 💻 Java developer
 - 🦀 Rust developer
 - ⚙️ System tool maker
 - 🌐 Typescript web developer
 - 🐧 Linux user
-- 🎮 Game dev experiments
 
 ---
 
@@ -39,7 +39,7 @@ learns by breaking and rebuilding
 <br>
   
 <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/NixOS-1b84e0?style=for-the-badge&logo=NixOS&logoColor=white" />
+<img src="https://img.shields.io/badge/Gentoo-1b84e0?style=for-the-badge&logo=Gentoo&logoColor=white" />
 
 </p>
 

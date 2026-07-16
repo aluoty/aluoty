@@ -28,7 +28,8 @@ learns by breaking and rebuilding
 ## 🧰 Tech Stack
 
 <p align="center">
-  
+
+<img src="https://img.shields.io/badge/C-2a7dbd?style=for-the-badge&logo=C&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-7a2828?style=for-the-badge&logo=rust" />
 
 <br>

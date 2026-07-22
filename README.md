@@ -34,7 +34,7 @@ learns by breaking and rebuilding
 
 <br>
 
-<img src="https://img.shields.io/badge/ASM-ED8B00?style=for-the-badge&logo=x86_64&logoColor=white" />
+<img src="https://img.shields.io/badge/ASM-ED8B00?style=for-the-badge&logo=Assembly&logoColor=white" />
 <img src="https://img.shields.io/badge/Typescript-5b8ab3?style=for-the-badge&logo=Typescript" />
 
 <br>

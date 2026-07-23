@@ -17,7 +17,7 @@ prefers clarity and control
 learns by breaking and rebuilding
 ```
 - ⚙️ C developer 
-- 💻 ASM developer
+- 💻 Go developer
 - 🦀 Rust developer
 - ⚙️ System tool maker
 - 🌐 Typescript web developer
@@ -34,7 +34,7 @@ learns by breaking and rebuilding
 
 <br>
 
-<img src="https://img.shields.io/badge/ASM-ED8B00?style=for-the-badge&logo=ASM&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-ED8B00?style=for-the-badge&logo=Go&logoColor=white" />
 <img src="https://img.shields.io/badge/Typescript-5b8ab3?style=for-the-badge&logo=Typescript" />
 
 <br>

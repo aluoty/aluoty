@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=C+Tool+Maker;Rust+Tool+Maker;Zig+Tool+Maker;Typescript+Tool+Maker;Go+Tool+Developer;Low-level+Thinker&center=true&width=500&height=50&color=cbd5e1">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C+Tool+Maker;Rust+Tool+Maker;Typescript+Tool+Maker;Go+Tool+Developer;Low-level+Thinker&center=true&width=500&height=50&color=cbd5e1">
 </p>
 
 ---

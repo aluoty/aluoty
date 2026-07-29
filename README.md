@@ -40,7 +40,6 @@ learns by breaking and rebuilding
 <br>
   
 <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Gentoo-9534eb?style=for-the-badge&logo=Gentoo&logoColor=white" />
 
 </p>
 

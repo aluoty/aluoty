@@ -5,6 +5,7 @@
 - ⚙️ C developer 
 - 🦀 Rust developer
 - 🌐 Typescript developer
+- 🏁 Go developer
 - 🐧 Linux user
 
 ---

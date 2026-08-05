@@ -9,25 +9,6 @@
 
 ---
 
-## 🧰 Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/C-2a7dbd?style=for-the-badge&logo=C&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-7a2828?style=for-the-badge&logo=rust" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Typescript-5b8ab3?style=for-the-badge&logo=Typescript" />
-
-<br>
-  
-<img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white" />
-
-</p>
-
----
-
 ## 📊 Stats
 
 <p align="center">

@@ -11,11 +11,6 @@
 ---
 
 ## 🧬 About
-```
-building tools, and program logic from scratch
-prefers clarity and control
-learns by breaking and rebuilding
-```
 - ⚙️ C developer 
 - 💻 Go developer
 - 🦀 Rust developer

@@ -12,4 +12,4 @@ Hi. I am Alexander Luo.
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aluoty&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-See more at [website](https://alexanderluo.com)
+See more at [website](https://alexanderluo.com) or the [website mirror](https://aluoty.github.io/website).
